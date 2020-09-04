@@ -1,4 +1,6 @@
-# Splender
+# Splendor
+Splendor is game with two people with the idea of collecting resources to get higher cost cards. Higher cost cards are worth more winning points and give you more resources. A more in depth explanation of the rules is listed below. This was the final project for comp 11 and I recieved all points for the project. Enjoy!
+
 
 Setup:
 run ./test splendor.data Y
@@ -19,3 +21,5 @@ specify the color after the command, e.g., p2 red would put 2 red gems into your
 r - Reserve a visible card from the table. You specify the row by the first letter of its name (m - Mines, t - Transport, v - Vendors) and then the index of the card in that row (using 1-indexing), e.g, r m 4 would reserve the 4th card from the mine row. A gold gem is automatically put in your private collection if any gold gems are left on the board.
 b - Purchase a visible card from the table. You use the same specification as above, e.g., b t 2. The gems necessary to purchase the card (including gold “wildcard” gems) are automatically spent, and any applicable discounts are applied automatically.
 br - Purchase a reserved card. You specify the index of the card in your hand (using 1-indexing), e.g., br 2 would purchase the second reserved card in your hand. Gems are automatically spent and discounts are automatically applied as done in the previous command.
+
+https://www.cs.tufts.edu/comp/11-2019f/schedule/hw11/hw11.pdf
