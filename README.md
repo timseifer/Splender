@@ -9,7 +9,7 @@ run ./test splendor.data N
 
 If this doesn't work compile with clang++
 
-Rulebooke can be found here:
+Rule book can be found here:
 https://cdn.1j1ju.com/medias/7f/91/ba-splendor-rulebook.pdf
 
 Terminal commands are here:
