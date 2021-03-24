@@ -23,3 +23,8 @@ b - Purchase a visible card from the table. You use the same specification as ab
 br - Purchase a reserved card. You specify the index of the card in your hand (using 1-indexing), e.g., br 2 would purchase the second reserved card in your hand. Gems are automatically spent and discounts are automatically applied as done in the previous command.
 
 https://www.cs.tufts.edu/comp/11-2019f/schedule/hw11/hw11.pdf
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Various other testing files can be found, which were used in a unit testing implementation
+
